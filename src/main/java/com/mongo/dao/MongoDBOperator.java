@@ -17,6 +17,9 @@ public class MongoDBOperator{
 	private MongoOperations mongoTemplate;
 	
 	public void save(UserInfo user){
+		
+		
+		
 		mongoTemplate.save(user);
 	}
 	
