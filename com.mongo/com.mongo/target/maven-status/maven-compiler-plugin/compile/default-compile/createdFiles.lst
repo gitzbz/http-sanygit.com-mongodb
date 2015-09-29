@@ -1,0 +1,2 @@
+com\mongo\model\UserInfo.class
+com\mongo\dao\MongoDBOperator.class
